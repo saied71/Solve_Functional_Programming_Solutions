@@ -1,1 +1,1 @@
-# Solve_Functional_Programming_Solutionsso
+# Solve_Functional_Programming_Solutions
